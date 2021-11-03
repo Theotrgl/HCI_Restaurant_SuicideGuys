@@ -1,0 +1,90 @@
+.header{
+  background-image: url("https://media.istockphoto.com/photos/hot-espresso-and-coffee-bean-on-white-table-with-softfocus-and-over-picture-id1159612485?k=20&m=1159612485&s=612x612&w=0&h=NhjtqwIEEfK20C8WjN9s8AiLvKJDvWnZ5_ob0pPaglk=");background-size:100%;position:relative;bottom:90px;right:10px;width:1352px;height:340px;outline:15px solid black;background-repeat:no-repeat;background-position:0px -120px;opacity:70%
+  }
+.header-logo h3 {
+    color:#213557;text-align:center;position:relative;top:60px;font-size:90px;font-family: 'Times New Roman', Times, serif;letter-spacing:5px
+  }
+.header-logo p{
+  color:#213557;text-align:center;font-size:70px;font-family: 'Varela Round', sans-serif;position:relative;bottom:40px;
+}
+body {
+  background-color:rgb(226, 223, 223);height:150em
+}
+.menu h1 {
+  font-family:'Times New Roman', Times, serif, cursive;text-align:center;color:#2b2b2b;font-size:70px;position:relative;top:60px
+}
+.menu hr{
+  position:relative;top:10px;width:310px
+}
+.Food p {
+  text-align:center;font-family:'Times New Roman', Times, serif;font-size:50px;color:#2b2b2b;position:relative;top:110px;text-decoration:underline;
+}
+.BG1 {
+  background-color:#213557;width:350px;height:400px;background-size:230%;position:relative;left:170px;top:150px;outline:5px solid #2b2b2b;float:left
+}
+.Noodles img {  position:relative;top:40px;left:65px;height:160px;width:220px;outline:5px solid rgb(226, 223, 223)
+}
+.Noodles h5 {
+  font-family: 'Times New Roman', Times, serif;font-size:20px;color:rgb(226, 223, 223);text-align:center;position:relative;top:20px;letter-spacing:1px
+}
+.Price p {
+  text-align:center;font-family:'Times New Roman', Times, serif;color:rgb(226, 223, 223);font-size:25px;position:relative;bottom:15px;text-decoration:bold;
+}
+
+.Desc_N p {
+  text-align:center;font-family:'Times New Roman', Times, serif;color:rgb(226, 223, 223);font-size:20px;position:relative;bottom:30px;
+}
+.BG2 {
+  background-color:#213557;width:350px;height:400px;background-size:230%;position:relative;left:818px;top:150px;outline:5px solid #2b2b2b;
+}
+.Nasgor img {  position:relative;top:-360px;left:70px;height:160px;width:220px;outline:5px solid rgb(226, 223, 223)
+}
+.Nasgor h5 {
+  font-family: 'Times New Roman', Times, serif;font-size:20px;color:rgb(226, 223, 223);text-align:center;position:relative;top:-381px;left:10px;letter-spacing:2px
+}
+.price1 p {
+  text-align:center;font-family:'Times New Roman', Times, serif;color:rgb(226, 223, 223);font-size:25px;position:relative;bottom:417px;left:14px;text-decoration:bold;
+}
+.desc_NG p {
+  text-align:center;font-family:'Times New Roman', Times, serif;color:rgb(226, 223, 223);font-size:20px;position:relative;bottom:431px;padding-left:5px;padding-right:5px;
+}
+.Drinks p{
+  text-align:center;font-family:'Times New Roman', Times, serif;font-size:50px;color:#2b2b2b;position:relative;top:270px;text-decoration:underline;
+}
+.BG3 {
+  background-color:#213557;width:350px;height:400px;background-size:230%;position:relative;left:170px;top:320px;outline:5px solid #2b2b2b;float:left
+}
+.Kopi_susu img {  position:relative;top:40px;left:65px;height:160px;width:220px;outline:5px solid rgb(226, 223, 223)
+}
+.Kopi_susu h5{
+  font-family: 'Times New Roman', Times, serif;font-size:20px;color:rgb(226, 223, 223);text-align:center;position:relative;top:20px;letter-spacing:3px
+}
+.priceK p{
+  text-align:center;font-family:'Times New Roman', Times, serif;color:rgb(226, 223, 223);font-size:25px;position:relative;bottom:15px;text-decoration:bold;
+}
+.DescK p{
+  text-align:center;font-family:'Times New Roman', Times, serif;color:rgb(226, 223, 223);font-size:20px;position:relative;bottom:30px;padding-left:5px;padding-right:5px
+}
+.BG4 {
+  background-color:#213557;width:350px;height:400px;background-size:230%;position:relative;left:818px;top:320px;outline:5px solid #2b2b2b;
+}
+.Cincau img { position:relative;top:-360px;left:70px;height:160px;width:220px;outline:5px solid rgb(226, 223, 223)
+}
+.Cincau h5 {
+  font-family: 'Times New Roman', Times, serif;font-size:20px;color:rgb(226, 223, 223);text-align:center;position:relative;top:-381px;left:10px;letter-spacing:2px
+}
+.priceC p {
+  text-align:center;font-family:'Times New Roman', Times, serif;color:rgb(226, 223, 223);font-size:25px;position:relative;bottom:417px;left:5px;text-decoration:bold;
+}
+.DescC p {
+  text-align:center;font-family:'Times New Roman', Times, serif;color:rgb(226, 223, 223);font-size:20px;position:relative;bottom:431px;padding-left:5px;padding-right:5px;
+}
+.Button2 a{
+    text-decoration:underline;color:#2b2b2b;font-size:20px;position:relative;top:240px;left:610px;font-family: 'Times New Roman', Times, serif, cursive;letter-spacing:2px
+}
+.Button2 hr {
+  position:relative;top:280px;width:350px
+}
+.Button3 a {
+  text-decoration:underline;color:#2b2b2b;font-size:20px;position:relative;top:480px;left:615px;font-family: 'Times New Roman', Times, serif, cursive;letter-spacing:2px
+}
